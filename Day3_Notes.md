@@ -1,4 +1,4 @@
-## 07/31/25 Guacamole Exercises
+## 07/31/25 Guacamole Exercises :avocado:
 
 For my own benefit, I’m trying to summarize the major commands / steps we covered in the first half of Thursdays’s lesson where we modified the Guacamole recipe.  I’d appreciate my classmates and course assistants telling me if these instructions seem correct:
 
