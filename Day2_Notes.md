@@ -1,7 +1,7 @@
 # Day 2 Notes
 ## July 30, 2025
 
-##### Goal: Make a new repo on GitHub website and add a README file.
+#### Goal: Make a new repo on GitHub website and add a README file.
 
 ##### 1. Make a new repo on GitHub website.
 
