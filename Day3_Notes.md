@@ -14,7 +14,7 @@ For my own benefit, I’m trying to summarize the major commands / steps we cove
 
 ##### 3. During this step, it was noticed that two commits were downloaded.  They have separate commit codes. To check on the markdown file, open the markdown file in VSCode.
 
-```  code guacamole.md ``` 
+``` code guacamole.md ``` 
 
 ### B. Restoring a previous non-erroneous version of the guacamole recipe
 
