@@ -1,7 +1,10 @@
 # Day 2 Notes
 ## July 30, 2025
 
-##### 1. Make a new repo on GitHub website
+##### Goal: Make a new repo on GitHub website and add a README file.
+
+##### 1. Make a new repo on GitHub website.
+
 ##### 2. Add this repo to personal computer using git clone
 
 ```git clone <repository_url>```
